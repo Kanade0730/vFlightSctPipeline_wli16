@@ -1,0 +1,1321 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.874417,
+                        39.919056
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO6J",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.874417,
+                        39.919056
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO6J",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        116.509944,
+                        39.112694
+                    ],
+                    [
+                        116.509944,
+                        39.112694
+                    ],
+                    [
+                        116.452917,
+                        39.478833
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO7X",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        116.509944,
+                        39.112694
+                    ],
+                    [
+                        116.509944,
+                        39.112694
+                    ],
+                    [
+                        116.452917,
+                        39.478833
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO7X",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO8Y",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.378056,
+                        38.647778
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "AVBO8Y",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "AVBOX",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.123889,
+                        39.533139
+                    ],
+                    [
+                        116.078556,
+                        39.828361
+                    ],
+                    [
+                        116.078889,
+                        40.085694
+                    ],
+                    [
+                        115.9845,
+                        40.139139
+                    ],
+                    [
+                        115.910167,
+                        40.208861
+                    ],
+                    [
+                        115.860583,
+                        40.2905
+                    ],
+                    [
+                        115.838889,
+                        40.379
+                    ],
+                    [
+                        116.157139,
+                        40.393222
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE4A",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.123889,
+                        39.533139
+                    ],
+                    [
+                        116.078556,
+                        39.828361
+                    ],
+                    [
+                        116.078889,
+                        40.085694
+                    ],
+                    [
+                        115.9845,
+                        40.139139
+                    ],
+                    [
+                        115.910167,
+                        40.208861
+                    ],
+                    [
+                        115.860583,
+                        40.2905
+                    ],
+                    [
+                        115.838889,
+                        40.379
+                    ],
+                    [
+                        116.157139,
+                        40.393222
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE4A",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.136806,
+                        39.4485
+                    ],
+                    [
+                        116.136806,
+                        39.4485
+                    ],
+                    [
+                        116.452917,
+                        39.478833
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE5D",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.136806,
+                        39.4485
+                    ],
+                    [
+                        116.136806,
+                        39.4485
+                    ],
+                    [
+                        116.452917,
+                        39.478833
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE5D",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.123889,
+                        39.533139
+                    ],
+                    [
+                        116.078556,
+                        39.828361
+                    ],
+                    [
+                        116.04625,
+                        40.037028
+                    ],
+                    [
+                        116.018333,
+                        40.216111
+                    ],
+                    [
+                        115.725222,
+                        40.230278
+                    ],
+                    [
+                        115.740778,
+                        40.423639
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE6J",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.803889,
+                        38.661944
+                    ],
+                    [
+                        116.200278,
+                        39.028889
+                    ],
+                    [
+                        116.123889,
+                        39.533139
+                    ],
+                    [
+                        116.078556,
+                        39.828361
+                    ],
+                    [
+                        116.04625,
+                        40.037028
+                    ],
+                    [
+                        116.018333,
+                        40.216111
+                    ],
+                    [
+                        115.725222,
+                        40.230278
+                    ],
+                    [
+                        115.740778,
+                        40.423639
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUGE6J",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "DUGEB",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        118.029167,
+                        38.591389
+                    ],
+                    [
+                        117.256389,
+                        38.859167
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.874417,
+                        39.919056
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUMA2G",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "DUMAP",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        118.029167,
+                        38.591389
+                    ],
+                    [
+                        117.256389,
+                        38.859167
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.874417,
+                        39.919056
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUMA2G",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "DUMAP",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        118.029167,
+                        38.591389
+                    ],
+                    [
+                        117.256389,
+                        38.859167
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUMA9Z",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "DUMAP",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        118.029167,
+                        38.591389
+                    ],
+                    [
+                        117.256389,
+                        38.859167
+                    ],
+                    [
+                        117.179639,
+                        39.033194
+                    ],
+                    [
+                        117.02325,
+                        39.384889
+                    ],
+                    [
+                        116.920778,
+                        39.613111
+                    ],
+                    [
+                        116.854667,
+                        40.048556
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "DUMA9Z",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "DUMAP",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.740778,
+                        40.423639
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB4E",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.740778,
+                        40.423639
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.156389,
+                        40.403333
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB4E",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.723583,
+                        40.353361
+                    ],
+                    [
+                        115.747694,
+                        40.265222
+                    ],
+                    [
+                        115.794139,
+                        40.1825
+                    ],
+                    [
+                        115.860972,
+                        40.1085
+                    ],
+                    [
+                        115.945528,
+                        40.046111
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB6J",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.723583,
+                        40.353361
+                    ],
+                    [
+                        115.747694,
+                        40.265222
+                    ],
+                    [
+                        115.794139,
+                        40.1825
+                    ],
+                    [
+                        115.860972,
+                        40.1085
+                    ],
+                    [
+                        115.945528,
+                        40.046111
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.309167,
+                        40.399722
+                    ],
+                    [
+                        116.450361,
+                        40.405917
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB6J",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.76625,
+                        40.431472
+                    ],
+                    [
+                        116.611194,
+                        40.420861
+                    ],
+                    [
+                        116.679167,
+                        40.419722
+                    ],
+                    [
+                        116.725806,
+                        40.119222
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB7X",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.76625,
+                        40.431472
+                    ],
+                    [
+                        116.611194,
+                        40.420861
+                    ],
+                    [
+                        116.679167,
+                        40.419722
+                    ],
+                    [
+                        116.725806,
+                        40.119222
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB7X",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.592111,
+                        40.335583
+                    ],
+                    [
+                        115.800444,
+                        40.002306
+                    ],
+                    [
+                        115.800444,
+                        40.002306
+                    ],
+                    [
+                        116.370972,
+                        39.646722
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB9Y",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        115.530556,
+                        40.433333
+                    ],
+                    [
+                        115.592111,
+                        40.335583
+                    ],
+                    [
+                        115.800444,
+                        40.002306
+                    ],
+                    [
+                        115.800444,
+                        40.002306
+                    ],
+                    [
+                        116.370972,
+                        39.646722
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "GUVB9Y",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "GUVBA",
+                "end_fix_ident": "AA123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        117.037222,
+                        40.736389
+                    ],
+                    [
+                        116.973222,
+                        40.680611
+                    ],
+                    [
+                        116.809333,
+                        40.535222
+                    ],
+                    [
+                        116.856278,
+                        40.230167
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "OSUB6J",
+                "TRANSITION_IDENT": "RW18B",
+                "start_fix_ident": "OSUBA",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        117.037222,
+                        40.736389
+                    ],
+                    [
+                        116.973222,
+                        40.680611
+                    ],
+                    [
+                        116.809333,
+                        40.535222
+                    ],
+                    [
+                        116.856278,
+                        40.230167
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.710611,
+                        40.217389
+                    ],
+                    [
+                        116.686556,
+                        40.372222
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "OSUB6J",
+                "TRANSITION_IDENT": "RW19",
+                "start_fix_ident": "OSUBA",
+                "end_fix_ident": "AA261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        117.037222,
+                        40.736389
+                    ],
+                    [
+                        116.973222,
+                        40.680611
+                    ],
+                    [
+                        116.679167,
+                        40.419722
+                    ],
+                    [
+                        116.725806,
+                        40.119222
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "OSUB7X",
+                "TRANSITION_IDENT": "RW01",
+                "start_fix_ident": "OSUBA",
+                "end_fix_ident": "AA141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        117.037222,
+                        40.736389
+                    ],
+                    [
+                        116.973222,
+                        40.680611
+                    ],
+                    [
+                        116.679167,
+                        40.419722
+                    ],
+                    [
+                        116.725806,
+                        40.119222
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.738333,
+                        40.038056
+                    ],
+                    [
+                        116.792389,
+                        39.685972
+                    ]
+                ]
+            },
+            "properties": {
+                "ARPT_IDENT": "ZBAA",
+                "PROC_IDENT": "OSUB7X",
+                "TRANSITION_IDENT": "RW36B",
+                "start_fix_ident": "OSUBA",
+                "end_fix_ident": "AA141"
+            }
+        }
+    ]
+}
